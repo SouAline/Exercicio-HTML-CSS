@@ -1,0 +1,37 @@
+* {
+
+}
+
+
+h1 {
+  font-family: "Playfair Display", serif;
+  font-size: 16px;
+  font-weight: normal;
+}
+h1 span {
+  font-weight: bold;
+}
+
+p{
+  font-family: "Open Sans", sans serif;
+  font-size: 24px;
+  color: rgba(0, 0, 0.6);
+}
+
+body {
+background-color: #e5e5e5;
+
+}
+header{
+  background-color: white;
+
+}
+
+.box {
+background-color: blue;
+width: 100px;
+height: 100px;
+border: 15px solid red;
+padding: 100px 10px;
+margin: 50px;
+}
